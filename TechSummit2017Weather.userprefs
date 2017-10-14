@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{AFDB3760-F5A5-4A52-827D-2AF496B7B7DB}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="状態: TechSummit2017Weather">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TechSummit2017Weather/Secrets.cs">
     <Files>
       <File FileName="状態: TechSummit2017Weather" />
+      <File FileName="TechSummit2017Weather/Secrets.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

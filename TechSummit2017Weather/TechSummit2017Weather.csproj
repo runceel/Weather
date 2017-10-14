@@ -39,6 +39,7 @@
       <DependentUpon>TechSummit2017WeatherPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Secrets.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Microsoft.Azure.Mobile">
