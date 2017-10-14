@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{AFDB3760-F5A5-4A52-827D-2AF496B7B7DB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="状態: TechSummit2017Weather">
+    <Files>
+      <File FileName="状態: TechSummit2017Weather" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TechSummit2017Weather.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6E58E55A-7EA4-44A9-8095-E41CB6BA9F1D">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.TechSummit2017Weather.iOS>
+</Properties>
